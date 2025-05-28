@@ -1,34 +1,51 @@
-## Hello World!
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/maksymilan) 
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras) -->
-<!-- [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br) -->
+<p align="left">
+  <a href="https://github.com/maksymilan" target="_blank"><img src="https://img.shields.io/github/followers/maksymilan?label=follow&style=social" height="22" title="Follow me" /></a>
+  <a href="mailto:hudou0597@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" height="22"/></a>
+</p>
 
+---
 
-My name is **Maksymilan**, I'm 19 years old and I'm a student of **ZheJiang University** (**ZJU**) in China.
-I am completely passionate about frontend development, graphs and also very interested in game development. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends 
-<!-- <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" /> -->
+<img align="right" width="280" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="Coding GIF"/>
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+👋 Hi, I'm **Maksymilan**!
 
+* 🎓 I'm a 19-year-old student at **ZheJiang University (ZJU)** in China.
+* 💻 I'm passionate about **Frontend Development** and **Graphs**.
+* 🎮 I'm also very interested in **Game Development**.
+* 🎧 I love listening to music 🎵, watching movies/series 🎬, and sharing moments with friends.
 
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+---
 
-- 💬 Ask me about programming in general, I am always <br> available to help and learn together.
+### 🚀 My Tech Stack & Tools
 
-- 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">3510040005@qq.com</a>
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="LaTeX">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="Vim">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code">
+</p>
 
-<!-- <img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
-/> -->
+---
 
+### 📊 My GitHub Stats
 
-<!-- ----
-Credit: [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
+<p align="center">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=maksymilan&count_private=true&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&bg_color=0d1117" alt="Maksymilan's GitHub Stats"/>
+  &nbsp;&nbsp; <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io" alt="Maksymilan's Top Languages"/>
+</p>
 
-Last Edited on: 23/09/2020 -->
+---
+
+-   🌱 I’m currently diving deeper into **Frontend Frameworks** and **Algorithm Design**.
+-   💬 Feel free to ask me about anything! I'm always open to discussing tech, learning together, or just chatting.
+-   📫 You can reach me via the badges at the top!
