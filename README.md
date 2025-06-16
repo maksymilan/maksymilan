@@ -41,7 +41,7 @@
 
 <p align="center">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=maksymilan&count_private=true&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&bg_color=0d1117" alt="Maksymilan's GitHub Stats"/>
-  &nbsp;&nbsp; <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io" alt="Maksymilan's Top Languages"/>
+  &nbsp;&nbsp; <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io,pre-blog" alt="Maksymilan's Top Languages"/>
 </p>
 
 ### 🌱 What I'm Exploring & Let's Connect!
