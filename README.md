@@ -9,9 +9,6 @@
 
 <img align="right" width="280" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="Coding GIF"/>
 
-<details open>
-<summary><strong>🇬🇧 English Version (Click to switch)</strong></summary>
-
 👋 Hi, I'm **Maksymilan**!
 
 I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a passion for computer systems and artificial intelligence.
@@ -20,22 +17,6 @@ I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a p
 * 👨‍💻 To deepen my understanding of core computing principles, I'm currently diving into **Operating Systems** and **Computer Architecture**. My strongest programming languages are **C++** and **Python**.
 * 🚀 I am actively seeking an internship (research or industry) in **Computer Systems**, **MLSys**, or related fields.
 * 🤝 If you find my work interesting or have a suitable opportunity, please feel free to connect with me via the badges above. Let's build something amazing together!
-
-</details>
-
-<details>
-<summary><strong>🇨🇳 中文版本 (点击切换)</strong></summary>
-
-👋 你好，我是 **Maksymilan**！
-
-我是一名**浙江大学**的大三在读本科生，对计算机系统和人工智能领域充满热情。
-
-* 🔬 我目前的研究方向是**大语言模型 (LLM)** 和**数据挖掘**，并希望未来能尝试 **MLSys (机器学习系统)** 方向的科研。
-* 👨‍💻 为了加深对计算机底层的理解，我正在深入学习**操作系统**与**计算机体系结构**。我最擅长的开发语言是 **C++** 和 **Python**。
-* 🚀 我目前正在积极寻找**系统方向**或 **MLSys 方向**的科研/工作实习机会。
-* 🤝 如果你对我的背景感兴趣或有合适的职位，欢迎通过上方徽章中的联系方式与我交流。期待与你合作！
-
-</details>
 
 ---
 
@@ -55,8 +36,6 @@ I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a p
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code">
 </p>
-
-
 
 ### 📊 My GitHub Stats
 
