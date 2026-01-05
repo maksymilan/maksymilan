@@ -13,9 +13,9 @@
 
 I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a passion for computer systems and artificial intelligence.
 
-* 🔬 My current research focuses on **Large Language Models (LLMs)** and **Data Mining**. I'm eager to venture into the **MLSys** field for future research.
+* 🔬 My primary research interests are in **Machine Learning Systems (MLSys)** and **AI Infrastructure**. I'm exploring the intersection of systems optimization and AI/ML workloads.
 * 👨‍💻 To deepen my understanding of core computing principles, I'm currently diving into **Operating Systems** and **Computer Architecture**. My strongest programming languages are **C++** and **Python**.
-* 🚀 I am actively seeking an internship (research or industry) in **Computer Systems**, **MLSys**, or related fields.
+* 💼 I'm currently interning at **ByteDance (Volcengine)**, working on the **Storage Infrastructure** team.
 * 🤝 If you find my work interesting or have a suitable opportunity, please feel free to connect with me via the badges above. Let's build something amazing together!
 
 ---
@@ -37,9 +37,9 @@ I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a p
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code">
 </p>
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=maksymilan&count_private=true&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&bg_color=0d1117" alt="Maksymilan's GitHub Stats"/>
-  &nbsp;&nbsp; <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io,pre-blog" alt="Maksymilan's Top Languages"/>
+  <img align="center" width="48%" src="https://maksymilan-readme-stats.vercel.app/api?username=maksymilan&count_private=true&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&bg_color=0d1117" alt="Maksymilan's GitHub Stats"/>
+  <img align="center" width="48%" src="https://maksymilan-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io,pre-blog" alt="Maksymilan's Top Languages"/>
 </p>
