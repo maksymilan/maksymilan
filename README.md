@@ -7,16 +7,20 @@
   <img src="https://img.shields.io/badge/WeChat-d19162934675-07C160?style=flat&logo=wechat&logoColor=white" height="22" title="Contact me on WeChat"/>
 </p>
 
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=36BCF7&vCenter=true&width=620&lines=Exploring+LLM+RL+post-training;Learning+computer+systems+by+building;Working+with+Python+%26+C%2B%2B" alt="Typing animation: current interests and tools" /></a>
+</p>
+
 <img align="right" width="280" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" alt="Coding GIF"/>
 
 👋 Hi, I'm **Maksymilan**!
 
-I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a passion for computer systems and artificial intelligence.
+I'm an **Industrial Design** undergraduate at **Zhejiang University (ZJU)**, interested in computer systems, AI infrastructure, and large language model training.
 
-* 🔬 My primary research interests are in **Machine Learning Systems (MLSys)** and **AI Infrastructure**. I'm exploring the intersection of systems optimization and AI/ML workloads.
-* 👨‍💻 To deepen my understanding of core computing principles, I'm currently diving into **Operating Systems** and **Computer Architecture**. My strongest programming languages are **C++** and **Python**.
-* 💼 I'm currently interning at **ByteDance (Volcengine)**, working on the **Storage Infrastructure** team.
-* 🤝 If you find my work interesting or have a suitable opportunity, please feel free to connect with me via the badges above. Let's build something amazing together!
+* 🔬 I'm currently especially interested in **LLM reinforcement-learning post-training**, including rollout generation, reward design, credit assignment, and evaluation.
+* ⚙️ I enjoy understanding training and inference systems end to end, then turning ideas into reproducible experiments.
+* 👨‍💻 I mainly work with **Python** and **C++**, and also use **Go**, **TypeScript**, **PyTorch**, and Linux-based development tools.
+* 🤝 If you find my work interesting or have a suitable opportunity, please feel free to connect with me via the badges above. Let's build something interesting together!
 
 ---
 
@@ -26,6 +30,7 @@ I'm a third-year undergraduate student at **Zhejiang University (ZJU)** with a p
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React">
