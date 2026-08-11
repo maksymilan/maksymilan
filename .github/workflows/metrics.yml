@@ -1,0 +1,59 @@
+name: Profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every Monday at 11:17 in Asia/Shanghai.
+    - cron: "17 3 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Store a scope-less personal access token as METRICS_TOKEN.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: maksymilan
+
+          filename: github-metrics.svg
+          output_action: commit
+          output_condition: data-changed
+          committer_message: "chore: refresh ${filename} [skip ci]"
+
+          template: classic
+          base: repositories, metadata
+          config_output: svg
+          config_display: large
+          config_timezone: Asia/Shanghai
+          config_animations: yes
+
+          # Long-term language usage; recent activity is intentionally omitted.
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 1%
+          plugin_languages_other: yes
+          plugin_languages_ignored: >-
+            html, css, dockerfile, makefile, cmake, shell
+          plugin_languages_skipped: |
+            maksymilan/maksymilan
+            maksymilan/maksymilan.github.io
+            maksymilan/pre-blog
+
+          # Keep the repository summary focused on meaningful non-zero values.
+          extras_js: |
+            document.querySelectorAll(".field").forEach((node) => {
+              if (/^0 (Releases|Packages|Sponsors)$/.test(node.textContent.trim())) node.remove()
+            })

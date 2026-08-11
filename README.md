@@ -42,9 +42,10 @@ I'm an **Industrial Design** undergraduate at **Zhejiang University (ZJU)**, int
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code">
 </p>
 
-### My GitHub Stats
+### GitHub Metrics
 
 <p align="center">
-  <img align="center" width="48%" src="https://maksymilan-readme-stats.vercel.app/api?username=maksymilan&count_private=true&show_icons=true&theme=tokyonight&icon_color=79ff97&title_color=79ff97&bg_color=0d1117" alt="Maksymilan's GitHub Stats"/>
-  <img align="center" width="48%" src="https://maksymilan-readme-stats.vercel.app/api/top-langs/?username=maksymilan&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=79ff97&exclude_repo=maksymilan.github.io,pre-blog" alt="Maksymilan's Top Languages"/>
+  <picture>
+    <img src="./github-metrics.svg" alt="Maksymilan's repository statistics and long-term language usage" width="100%">
+  </picture>
 </p>
